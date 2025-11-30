@@ -1,6 +1,6 @@
 select * from hr.employees;
 
-select first_name,last_name
+select first_name,last_name,salary
 from hr.employees
 where phone_number is not null
 order by salary desc

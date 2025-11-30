@@ -1,6 +1,6 @@
 select
     -- tam ad
-    UPPER(CONCAT(first_name, CONCAT(' ', last_name))) as full_name,
+    UPPER(CONCAT(first_name, ' ', last_name)) as full_name,
 
     email,
 
