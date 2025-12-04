@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Aggregate_functions.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/DepartmanBazlıAnaliz.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Having.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/IT_ye e posta manipulasyonu.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Nullif.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Sum_minmax.sql" dialect="PostgreSQL" />
